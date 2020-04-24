@@ -15,7 +15,6 @@
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateTODOToolWindow" />
