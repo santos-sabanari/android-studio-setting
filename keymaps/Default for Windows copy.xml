@@ -2,10 +2,10 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateFlutterInspectorToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="ActivateFlutterOutlineToolWindow">
-    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateFlutterPerformanceToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
