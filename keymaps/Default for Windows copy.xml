@@ -19,8 +19,19 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="CopyElement" />
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Move" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt enter" />
