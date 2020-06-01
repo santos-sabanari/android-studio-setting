@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="tcf" value="try {&#10;} catch (e) {&#10;    print(e);&#10;} finally {&#10;}" description="Try Catch Finally" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
