@@ -19,7 +19,12 @@
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="CIDR.Lang.SwitchHeaderSource" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="ChooseRunConfiguration" />
   <action id="CompileDirty" />
   <action id="CopyElement" />
@@ -32,6 +37,8 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="DeviceAndSnapshotComboBox" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift alt f11" />
@@ -39,16 +46,26 @@
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
   <action id="Inline" />
   <action id="Move" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowBookmarks" />
   <action id="SmartStepInto">
@@ -80,6 +97,8 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
